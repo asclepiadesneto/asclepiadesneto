@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Eu sou Asclepíades Neto, sou um desenvolvedor front end, e estou atualmente estudando e criando projetos em HTML, CSS, e iniciando os estudos em Java Script e React.
 <br>
